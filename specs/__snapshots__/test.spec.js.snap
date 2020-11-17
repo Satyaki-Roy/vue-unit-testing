@@ -5,3 +5,14 @@ exports[`mount a vue component 1`] = `
   <h1>Hello VueSchool</h1>
 </div>
 `;
+
+exports[`testing the List Component 1`] = `
+<div>
+  <ul>
+    <li><strong>Iron Man</strong></li>
+    <li><strong>Avengers</strong></li>
+    <li><strong>Infinity War</strong></li>
+    <li><strong>Endgame</strong></li>
+  </ul>
+</div>
+`;

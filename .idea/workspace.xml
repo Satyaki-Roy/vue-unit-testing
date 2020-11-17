@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4a40c454-8c1d-48e7-8044-ca5ffc02d813" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jest.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs/__snapshots__/test.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/specs/__snapshots__/test.spec.js.snap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/specs/test.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/specs/test.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/list.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +76,7 @@
       <updated>1605505230010</updated>
       <workItem from="1605505231054" duration="87000" />
       <workItem from="1605583042039" duration="927000" />
-      <workItem from="1605584408699" duration="3163000" />
+      <workItem from="1605584408699" duration="4980000" />
     </task>
     <servers />
   </component>
