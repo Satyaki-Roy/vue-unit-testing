@@ -24,7 +24,7 @@
         marvelMovies: [
           'Iron Man',
           'Avengers',
-          'Infitinity War',
+          'Infinity War',
         ]
       }
     }
