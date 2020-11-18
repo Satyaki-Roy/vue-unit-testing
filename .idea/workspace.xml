@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4a40c454-8c1d-48e7-8044-ca5ffc02d813" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/specs/stubs.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/specs/stubs.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs/salad.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/specs/salad.spec.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +79,7 @@
       <workItem from="1605505231054" duration="87000" />
       <workItem from="1605583042039" duration="927000" />
       <workItem from="1605584408699" duration="21637000" />
+      <workItem from="1605671581363" duration="5974000" />
     </task>
     <servers />
   </component>
@@ -110,10 +111,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="761" y="413" key="cloudConfig.SelfSettingsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1605602136800" />
-    <state x="1130" y="323" width="596" height="474" key="find.popup" timestamp="1605601896624">
+    <state x="1130" y="323" width="596" height="474" key="find.popup" timestamp="1605674502876">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="1130" y="323" width="596" height="474" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1605601896624" />
+    <state x="1130" y="323" width="596" height="474" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1605674502876" />
     <state x="862" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1605602008567">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
