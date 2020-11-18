@@ -2,7 +2,7 @@
   "name": "testing-vue-components",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "",
+  "repository": "https://github.com/Satyaki-Roy/vue-unit-testing",
   "author": "Satyaki Roy",
   "license": "MIT",
   "scripts": {
